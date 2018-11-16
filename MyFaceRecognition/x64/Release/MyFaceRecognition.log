@@ -1,0 +1,19 @@
+﻿  Cv310Text.cpp
+F:\Code\C++\MyFaceRecognition\packages\freetype.2.7.1.1\build\native\include\freetype/freetype.h(2657): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\CodeLibrary\opencv\build\include\opencv2/core/mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\CodeLibrary\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\CodeLibrary\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  MyFaceRecognition.cpp
+F:\CodeLibrary\opencv\build\include\opencv2/core/mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\CodeLibrary\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\CodeLibrary\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\CodeLibrary\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\CodeLibrary\opencv\build\include\opencv2/imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\Code\C++\MyFaceRecognition\packages\freetype.2.7.1.1\build\native\include\freetype/freetype.h(2657): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码
+  27 of 888 functions ( 3.0%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    24 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  MyFaceRecognition.vcxproj -> F:\Code\C++\MyFaceRecognition\x64\Release\MyFaceRecognition.exe
+  MyFaceRecognition.vcxproj -> F:\Code\C++\MyFaceRecognition\x64\Release\MyFaceRecognition.pdb (Full PDB)

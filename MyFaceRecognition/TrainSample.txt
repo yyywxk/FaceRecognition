@@ -1,0 +1,8 @@
+./trainingdata/1.jpg;1
+./trainingdata/2.jpg;1
+./trainingdata/3.jpg;1
+./trainingdata/4.jpg;1
+./trainingdata/11.jpg;2
+./trainingdata/12.jpg;2
+./trainingdata/13.jpg;2
+./trainingdata/14.jpg;2
